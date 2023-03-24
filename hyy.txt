@@ -1,0 +1,9 @@
+<html>
+  <head>
+    <title>welcome to nitte</tiitle>
+   </head>
+   <body>
+      <h1>welcome to manglore</h1>
+    </body>
+</html>
+  
